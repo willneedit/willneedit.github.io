@@ -1,0 +1,63 @@
+[
+	{
+		"name": "sgdialcomp",
+		"transform": {
+			"position": { "x":  -1.9248, "y": -10.8000, "z": -17.3260 },
+			"rotation": { "x":   0.0,    "y":   0.0,    "z":   0.0 },
+			"scale":    { "x":   0.6699, "y":   0.6699, "z":   0.6699 }
+		}
+	},
+	{
+		"name": "stargate",
+		"transform": {
+			"position": { "x":   0.0,    "y":  -7.0,    "z": -22.0 },
+			"rotation": { "x":   0.0,    "y": 180.0,    "z":   0.0 }
+		}
+	},
+	{
+		"name": "demongate",
+		"transform": {
+			"position": { "x": -16.5627, "y": -10.8000, "z": -10.7249 },
+			"rotation": { "x":   0.0,    "y": 240.0,    "z":   0.0 }
+		}
+	},
+	{
+		"name": "gltf",
+		"params": {
+			"gltf": "https://raw.githubusercontent.com/willneedit/willneedit.github.io/master/misc/Drider.glb"
+		},
+		"transform": {
+			"position": { "x":   0.5306, "y":  -9.8590, "z":   -4.7619 },
+			"rotation": { "x":   0.0,    "y": 260.0,    "z":   0.0 },
+			"scale":    { "x":   0.6699, "y":   0.6699, "z":   0.6699 }
+		}
+	},
+	{
+		"name": "blastdoor",
+		"transform": {
+			"position": { "x":  13.0768, "y": -10.8000, "z":  -7.5588 },
+			"rotation": { "x":   0.0,    "y": 300.0,    "z":   0.0 }
+		}
+	},
+	{
+		"name": "blastdoor",
+		"transform": {
+			"position": { "x": -13.0768, "y": -10.8000, "z":  -7.5588 },
+			"rotation": { "x":   0.0,    "y":  60.0,    "z":   0.0 }
+		}
+	},
+	{
+		"name": "blastdoor",
+		"transform": {
+			"position": { "x":  13.0768, "y": -10.8000, "z":   7.5588 },
+			"rotation": { "x":   0.0,    "y": 240.0,    "z":   0.0 }
+		}
+	},
+	{
+		"name": "blastdoor",
+		"transform": {
+			"position": { "x":   6.0000, "y": -10.8000, "z":  15.0000 },
+			"rotation": { "x":   0.0,    "y":   0.0,    "z":   0.0 }
+		}
+	}
+]
