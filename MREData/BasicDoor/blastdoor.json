@@ -1,0 +1,39 @@
+{
+	"opensound" : "https://raw.githubusercontent.com/willneedit/willneedit.github.io/master/MRE/BlastDoor/Powered_Sliding_Door.wav",
+	"closesound" : "https://raw.githubusercontent.com/willneedit/willneedit.github.io/master/MRE/BlastDoor/Powered_Sliding_Door.wav",
+	"opentime" : 5.0,
+	"parts" : [
+		{
+			"prefabid": "artifact:1155082333288661757",
+			"closed": { "position": { "x": 0, "y": 0, "z": 0 } },
+			"closeduration": 2.0,
+			"open": { "position": { "x": 1, "y": 0, "z": 0} },
+			"openduration": 2.0,
+			"parts": [
+				{
+					"prefabid": "artifact:1155082317299974906",
+					"isHandle": true,
+					"closed": {
+						"position": { "x": 0.3, "y": 1.5, "z": 0 },
+						"rotation": { "x": 0, "y": 0, "z": 0 }
+					},
+                    "closeduration": 0.5,
+					"open": {
+						"position": { "x": 0.3, "y": 1.5, "z": 0 },
+						"rotation": { "x": 0, "y": 0, "z": 180 }
+					},
+					"openduration": 0.5,
+					"parts": [
+					]
+				}
+			]
+		},
+		{
+			"prefabid": "artifact:1155082327643128572",
+			"closed": { "position": { "x": 0, "y": 0, "z": 0 } },
+            "closeduration": 2.0,
+			"open": { "position": { "x": -1, "y": 0, "z": 0} },
+            "openduration": 2.0
+		}
+	]
+}
