@@ -1,0 +1,170 @@
+{
+	"opensound" : "https://raw.githubusercontent.com/willneedit/willneedit.github.io/master/MRE/BlastDoor/Powered_Sliding_Door.wav",
+	"closesound" : "https://raw.githubusercontent.com/willneedit/willneedit.github.io/master/MRE/BlastDoor/Powered_Sliding_Door.wav",
+    "opentime": 7.0,
+    "parts": [
+        {
+            "prefabid": "artifact:1197848744935031270",
+            "closed": {
+                "position": { "x":  0, "y": 0, "z":  0},
+                "rotation": { "x":  0, "y": 0, "z":  0}
+            },
+            "open": {
+                "position": { "x":  2, "y": 0, "z":  0},
+                "rotation": { "x":  0, "y": 0, "z": -90}
+            },
+            "closeduration": 2.0,
+            "openduration": 2.0,
+            "opendelay": 1.0,
+            "parts": [
+                {
+                    "prefabid": "artifact:1197848755840221673",
+                    "isHandle": true,
+                    "closed": { "position": { "x": 0, "y": 0, "z": 0 } }
+                },
+                {
+                    "prefabid": "artifact:1197848750379237863",
+                    "closed": {
+                        "position": { "x":  0, "y": 0, "z":   0},
+                        "rotation": { "x":  0, "y": 0, "z":   0},
+                        "scale": { "x": 1.0, "y": 1.0, "z": 1.0 }
+                    },
+                    "open": {
+                        "position": { "x":  0, "y": 0, "z":   0},
+                        "rotation": { "x":  0, "y": 0, "z":   0},
+                        "scale": { "x": 1.0, "y": 1.0, "z": 1.0 }
+                    },
+                    "closeduration": 2.0,
+                    "openduration": 2.0,
+                    "closedelay": 1.0,
+                    "parts": [
+                        {
+                            "prefabid": "artifact:1197848750379237863",
+                            "closed": {
+                                "position": { "x":  0, "y": 0, "z":   0},
+                                "rotation": { "x":  0, "y": 0, "z":  45},
+                                "scale": { "x": 1.0, "y": 1.0, "z": 0.9 }
+                            },
+                            "open": {
+                                "position": { "x":  0, "y": 0, "z":   0},
+                                "rotation": { "x":  0, "y": 0, "z":   0},
+                                "scale": { "x": 1.0, "y": 1.0, "z": 0.9 }
+                            },
+                            "closeduration": 2.0,
+                            "openduration": 2.0,
+                            "closedelay": 1.0,
+                            "parts": [
+                                {
+                                    "prefabid": "artifact:1197848750379237863",
+                                    "closed": {
+                                        "position": { "x":  0, "y": 0, "z":   0},
+                                        "rotation": { "x":  0, "y": 0, "z":  45},
+                                        "scale": { "x": 1.0, "y": 1.0, "z": 0.9 }
+                                    },
+                                    "open": {
+                                        "position": { "x":  0, "y": 0, "z":   0},
+                                        "rotation": { "x":  0, "y": 0, "z":   0},
+                                        "scale": { "x": 1.0, "y": 1.0, "z": 0.9 }
+                                    },
+                                    "closeduration": 2.0,
+                                    "openduration": 2.0,
+                                    "closedelay": 1.0,
+                                    "parts": [
+                                        {
+                                            "prefabid": "artifact:1197848750379237863",
+                                            "closed": {
+                                                "position": { "x":  0, "y": 0, "z":   0},
+                                                "rotation": { "x":  0, "y": 0, "z":  45},
+                                                "scale": { "x": 1.0, "y": 1.0, "z": 0.9 }
+                                            },
+                                            "open": {
+                                                "position": { "x":  0, "y": 0, "z":   0},
+                                                "rotation": { "x":  0, "y": 0, "z":   0},
+                                                "scale": { "x": 1.0, "y": 1.0, "z": 0.9 }
+                                            },
+                                            "closeduration": 2.0,
+                                            "openduration": 2.0,
+                                            "closedelay": 1.0,
+                                            "parts": [
+                                                {
+                                                    "prefabid": "artifact:1197848750379237863",
+                                                    "closed": {
+                                                        "position": { "x":  0, "y": 0, "z":   0},
+                                                        "rotation": { "x":  0, "y": 0, "z":  45},
+                                                        "scale": { "x": 1.0, "y": 1.0, "z": 0.9 }
+                                                    },
+                                                    "open": {
+                                                        "position": { "x":  0, "y": 0, "z":   0},
+                                                        "rotation": { "x":  0, "y": 0, "z":   0},
+                                                        "scale": { "x": 1.0, "y": 1.0, "z": 0.9 }
+                                                    },
+                                                    "closeduration": 2.0,
+                                                    "openduration": 2.0,
+                                                    "closedelay": 1.0,
+                                                    "parts": [
+                                                        {
+                                                            "prefabid": "artifact:1197848750379237863",
+                                                            "closed": {
+                                                                "position": { "x":  0, "y": 0, "z":   0},
+                                                                "rotation": { "x":  0, "y": 0, "z":  45},
+                                                                "scale": { "x": 1.0, "y": 1.0, "z": 0.9 }
+                                                            },
+                                                            "open": {
+                                                                "position": { "x":  0, "y": 0, "z":   0},
+                                                                "rotation": { "x":  0, "y": 0, "z":   0},
+                                                                "scale": { "x": 1.0, "y": 1.0, "z": 0.9 }
+                                                            },
+                                                            "closeduration": 2.0,
+                                                            "openduration": 2.0,
+                                                            "closedelay": 1.0,
+                                                            "parts": [
+                                                                {
+                                                                    "prefabid": "artifact:1197848750379237863",
+                                                                    "closed": {
+                                                                        "position": { "x":  0, "y": 0, "z":   0},
+                                                                        "rotation": { "x":  0, "y": 0, "z":  45},
+                                                                        "scale": { "x": 1.0, "y": 1.0, "z": 0.9 }
+                                                                    },
+                                                                    "open": {
+                                                                        "position": { "x":  0, "y": 0, "z":   0},
+                                                                        "rotation": { "x":  0, "y": 0, "z":   0},
+                                                                        "scale": { "x": 1.0, "y": 1.0, "z": 0.9 }
+                                                                    },
+                                                                    "closeduration": 2.0,
+                                                                    "openduration": 2.0,
+                                                                    "closedelay": 1.0,
+                                                                    "parts": [
+                                                                        {
+                                                                            "prefabid": "artifact:1197848750379237863",
+                                                                            "closed": {
+                                                                                "position": { "x":  0, "y": 0, "z":   0},
+                                                                                "rotation": { "x":  0, "y": 0, "z":  45},
+                                                                                "scale": { "x": 1.0, "y": 1.0, "z": 0.9 }
+                                                                            },
+                                                                            "open": {
+                                                                                "position": { "x":  0, "y": 0, "z":   0},
+                                                                                "rotation": { "x":  0, "y": 0, "z":   0},
+                                                                                "scale": { "x": 1.0, "y": 1.0, "z": 0.9 }
+                                                                            },
+                                                                            "closeduration": 2.0,
+                                                                            "openduration": 2.0,
+                                                                            "closedelay": 1.0
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
