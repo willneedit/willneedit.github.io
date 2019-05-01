@@ -4,14 +4,14 @@
 	"opentime" : 5.0,
 	"parts" : [
 		{
-			"prefabid": "artifact:1155082333288661757",
+			"prefabid": "artifact:1197848761284428267",
 			"closed": { "position": { "x": 0, "y": 0, "z": 0 } },
 			"closeduration": 2.0,
 			"open": { "position": { "x": 1, "y": 0, "z": 0} },
 			"openduration": 2.0,
 			"parts": [
 				{
-					"prefabid": "artifact:1155082317299974906",
+					"prefabid": "artifact:1197848744792424933",
 					"isHandle": true,
 					"closed": {
 						"position": { "x": 0.3, "y": 1.5, "z": 0 },
@@ -29,7 +29,7 @@
 			]
 		},
 		{
-			"prefabid": "artifact:1155082327643128572",
+			"prefabid": "artifact:1197848755714392552",
 			"closed": { "position": { "x": 0, "y": 0, "z": 0 } },
             "closeduration": 2.0,
 			"open": { "position": { "x": -1, "y": 0, "z": 0} },
